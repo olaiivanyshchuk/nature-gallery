@@ -1,2 +1,2 @@
 # nature-gallery
-Nature Gallery — practical work
+Nature Gallery - practical work
